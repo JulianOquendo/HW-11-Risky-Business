@@ -1,7 +1,7 @@
 # HW-11-Risky-Business
 # Answers to Homework
 
-I compiled a ranking for each of the questions below:
+I compiled a ranking list of sorts for each of the questions below:
 
 Section 1: Resampling
 1. Balanced Accuracy Score Rankings: SMOTE: .8388, Naive: .8377, Undersampling: .8215
